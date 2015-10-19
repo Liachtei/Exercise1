@@ -9,5 +9,6 @@ public class HelloUser {
 	{
 		System.out.println("Hello ASE2015 - how are you? :)");
 		System.out.println("Please enter your name: Christian");
+		System.out.println("Hello Christian");	
 	}
 }
